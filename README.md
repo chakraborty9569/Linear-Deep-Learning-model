@@ -7,6 +7,7 @@ Tools used:
 2. Python 3
 
 
+
 First, I am generating a random data set from -10 to 10 and there are two inputs of dimensions 1000x1.
 
 Then, I am setting a target function with reference to which the output y will be estimated.
