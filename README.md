@@ -1,4 +1,4 @@
-# Linear-Deep-Learning-Model
+# Linear Deep Learning Model
 
 This is my first deep learning basic linear model developed.
 
