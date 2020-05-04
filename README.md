@@ -1,12 +1,10 @@
+# Linear-Deep-Learning-Model
+
 This is my first deep learning basic linear model developed.
 
 Tools used:
-
 1. Jupyter Note Book
-
 2. Python 3
-
-
 
 
 First, I am generating a random data set from -10 to 10 and there are two inputs of dimensions 1000x1.
